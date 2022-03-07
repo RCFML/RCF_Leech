@@ -1,12 +1,12 @@
-![MAXX LEECH V2](https://telegra.ph/file/af8f0596124714a17e4e2.png)
+[![GreyMatter's Bot LEECH V2](https://telegra.ph/file/af8f0596124714a17e4e2.png)](https://t.me/+396rgEDG8BowMWY5)
 
 ## 👉 [Orginal Repository](https://github.com/gautamajay52/TorrentLeech-Gdrive)
 
-![Maxx](https://telegra.ph/file/d18fa7fa33f26f733adb9.png)
+[![GreyMatter's Support](https://telegra.ph/file/d18fa7fa33f26f733adb9.png)](https://t.me/greymatters_bots_discussion)
 
 ## **Don't Kill Heroku please ☹️**
 
-[![MAXX LEECH](https://telegra.ph/file/29d788a656dd517eafd0a.png)](https://telegram.dog/MaxxBots)
+[![GreyMatter's Bot](https://telegra.ph/file/29d788a656dd517eafd0a.png)](https://telegram.dog/greymatter_bots)
 
 
 
@@ -150,7 +150,7 @@
 ➢ `/status`
 
 
-[![Maxx](https://telegra.ph/file/3066ec5102c94b8135e09.png)](https://t.me/MaxxBotChat)
+[![GreyMatter](https://telegra.ph/file/3066ec5102c94b8135e09.png)](https://t.me/GreyMatter_bots)
 
 🔴 <b> Currently Support HEORKO . But not permanent ☹️🤧 Coz Heroku won't allow Torrent Things</b>.
 
