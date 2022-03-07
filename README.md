@@ -165,7 +165,10 @@
 
 [![GreyMatter's Bot](https://telegra.ph/file/f0fa2f9fab80213df8f12.jpg)](https://telegram.dog/GreyMatter_bots)
 
-    
+### [Tutorial Video 1](https://youtu.be/exbZkRHT8LU)
+### [Tutorial Video 2](https://youtu.be/he4Wz7Rdb80)
+### [Tutorial Video with Mirror-Leech](https://youtu.be/aqdx3-785BI)
+   
 ## CREDITS
 
  - [GautamKumar](https://github.com/gautamajay52/TorrentLeech-Gdrive) 😬
