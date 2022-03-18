@@ -155,7 +155,7 @@
 🔴 <b> Currently Support HEORKO . But not permanent ☹️🤧 Coz Heroku won't allow Torrent Things</b>.
 
 
-## [Deploy To Heroku](https://heroku.com/deploy)
+## [Deploy To Heroku](https://heroku.com/deploy/)
 
 
 🤧 <b> Before Deploy 𝗣𝗹𝗲𝗮𝘀𝗲 𝗛𝗶𝘁 𝗦𝘁𝗮𝗿 ★ else you are Gay</b>
