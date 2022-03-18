@@ -157,11 +157,7 @@
 
 ## [Deploy To Heroku](https://heroku.com/deploy/)
 
-
-🤧 <b> Before Deploy 𝗣𝗹𝗲𝗮𝘀𝗲 𝗛𝗶𝘁 𝗦𝘁𝗮𝗿 ★ else you are Gay</b>
-
-
-[![GreyMatter's Bot](https://telegra.ph/file/f0fa2f9fab80213df8f12.jpg)](https://telegram.dog/GreyMatter_bots)
+If Deploy Button is not working watch the Tutorial Videos.
 
 ### [Tutorial Video 1](https://youtu.be/exbZkRHT8LU)
 ### [Tutorial Video 2](https://youtu.be/he4Wz7Rdb80)
